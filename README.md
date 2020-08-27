@@ -1,4 +1,4 @@
-<img src="https://github.com/luishernand/pandas_fundamentals/blob/master/logo4.JPG?raw=true" height = 150 width= 150 alt=" "> 
+<img src="https://github.com/luishernand/pandas_fundamentals/blob/master/logo4.JPG?raw=true" > 
 
 # Deep_Learning
 
